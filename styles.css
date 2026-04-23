@@ -1,4 +1,23 @@
+/**/
 body{
-    background-color: beige;
     font-family: 'Roboto', sans-serif;
+}
+
+#makeblue{
+    border: solid 3px blue;
+}
+#makegreen{
+    border: solid 3px green;
+}
+#makered{
+    border: solid 3px red;
+}
+#makeyellow{
+    border: solid 3px yellow;
+}
+
+h1
+{
+    text-align: center;
+    color: greenyellow;
 }
