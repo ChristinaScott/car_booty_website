@@ -1,5 +1,11 @@
 # Build a Flask Selling Website
+##For a basic Flask app, you mainly need:
 
+Install Flask
+Create app.py
+Define routes
+Run the server
+Return HTML or JSON
 ## Goal
 Build and deploy a simple selling website using Flask, SQLite, HTML/CSS, and image uploads.
 
